@@ -2,10 +2,6 @@
 
 Zen-Typing is a unique web app that transforms the typing experience into a meditative practice. Improve your typing speed and accuracy in a calm, ad-free environment.
 
-## 🚀 Live-Demo
-
-The web app is live at [zen-typing.com](https://zen-typing.com/).
-
 ## 🌟 Features
 
 - **Flexible Time Options**: Type for anywhere from 30 seconds to 1 hour, or without a timer.
